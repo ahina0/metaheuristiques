@@ -1,12 +1,16 @@
-#include "graphe.hpp"
+#include "Graphe.hpp"
 
-int main(){
+int main(int argc, char ** argv){
 
     string filename = "test.txt";
 
-    graph G = read_graph(filename);
+    if (argc == 2){
+        filename = argv[1];
+    }
 
-    print_graph(G);
+    Graph G(filename);
+
+    G.print_graph();
 
     return 0;
 }
