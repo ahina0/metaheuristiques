@@ -1,4 +1,5 @@
 #include "Graphe.hpp"
+#include "Solution.hpp"
 
 int main(int argc, char ** argv){
 
@@ -11,6 +12,12 @@ int main(int argc, char ** argv){
     Graph G(filename);
 
     G.print_graph();
+
+    Solution S(G,5);
+
+    S.print_solution();
+
+    cout << S.nbAretesInter() << endl;
 
     return 0;
 }
