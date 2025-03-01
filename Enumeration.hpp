@@ -3,14 +3,13 @@
 #include <cmath>
 
 
-class Enumeration : public Solution{
+class Enumeration : public Solution {
 
     public:
     
-    Enumeration(Graph &G, int p);
+        Enumeration(Graph &G, int p);
 
-
-    void explicite();
-    void implicite();
+        void explicite();
+        // void implicite();
 
 };

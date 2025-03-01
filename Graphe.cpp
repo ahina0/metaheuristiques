@@ -48,9 +48,9 @@ Graph::Graph(string filename){      // Construit un graphe à partir d'un fichie
 
 
 
-    // Arêtes + degrés
+    // Arêtes + degrés + sommets
 
-    degres.resize(nbSommets + 1, 0);
+    Degres.resize(nbSommets + 1, 0);
 
     double nombre;
     int i=0;
@@ -78,9 +78,16 @@ Graph::Graph(string filename){      // Construit un graphe à partir d'un fichie
             }
 
 
-            aretes[vec[0]][vec[1]] = vec[2];
-            degres[vec[0]] += 1;
-            degres[vec[1]] += 1;
+            Aretes[vec[0]][vec[1]] = vec[2];
+            Degres[vec[0]] += 1;
+            Degres[vec[1]] += 1;
+
+            if (! Sommets.count(vec[0])) {
+                Sommets.insert(vec[0]);
+            }
+            if (! Sommets.count(vec[1])) {
+                Sommets.insert(vec[1]);
+            }
 
         }
     }
@@ -89,14 +96,12 @@ Graph::Graph(string filename){      // Construit un graphe à partir d'un fichie
 void Graph::print_graph(){      // Affiche le graphe
     
     cout << "n = " << nbSommets << ", " << nbAretes << " arêtes" << endl << "dmin = " << dmin <<", dmax = " << dmax << endl;
-    for (auto &[sommet, arete] : aretes){
-        cout << "Sommet " << sommet << " (degré = " << degres[sommet] << ") :" << endl;
-        for (auto &[voisin, poids] : arete){
+    for (auto &sommet: Sommets){
+        cout << "Sommet " << sommet << " (degré = " << Degres[sommet] << ") :" << endl;
+        for (auto &[voisin, poids] : Aretes[sommet]){
             cout << "Voisin " << voisin << " : poids " << poids << endl;
         }
         cout << endl;
     }
 
 }
-
-

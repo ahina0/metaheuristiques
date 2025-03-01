@@ -1,29 +1,30 @@
 #pragma once
 
 #include "Graphe.hpp"
+#include <cmath>
 
 
-class Solution{
+class Solution : public Graph{
 
     public:
 
         // Attributs
-        int p;
-        int n;
-        unordered_map <int, int> sol;   // Vecteur ou unordered map?
+        int nbClasses;
+        vector<unordered_set<int>> Classes;
     
         // Constructeur
-        Solution(Graph G, int nbClassess);
+        Solution(Graph &G, int p);
 
         // Méthodes communes
-        calcul nbAretesInter
-        calcul valeurObj
+        int nbAretesInter();
+        double ValeurObj();
         
-        //affich solution
+        void print_solution();
+
+        bool is_realisable();
 
         // Méthodes virtuelles
         //calcul vois
         //algo
 
 };
-
