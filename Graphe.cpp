@@ -1,7 +1,6 @@
 #include "Graphe.hpp"
 
 Graph::Graph(string filename){      // Construit un graphe à partir d'un fichier
-    
 
     ifstream file(filename);
 
@@ -42,11 +41,6 @@ Graph::Graph(string filename){      // Construit un graphe à partir d'un fichie
         file >> indic;
     }
     dmax = stoi(indic);
-
-    
-    
-
-
 
     // Arêtes + degrés + sommets
 
@@ -92,6 +86,7 @@ Graph::Graph(string filename){      // Construit un graphe à partir d'un fichie
         }
     }
 }
+
 
 void Graph::print_graph(){      // Affiche le graphe
     

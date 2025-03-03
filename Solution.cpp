@@ -61,6 +61,7 @@ void Solution::print_solution(){
 // Renvoie true si la solution est realisable
 // On suppose que dans la solution, tous les sommets sont repartis dans nbClasses
 // Le test ne porte que sur le nombre de sommets par classe
+// "a peu pres egal" est ici egal ou +1 (dans le cas ou le nb de sommets n'est pas un multiple du nb de classes voulu)
 bool Solution::is_realisable() {
     for (int i=0 ; i<nbClasses ; i++) {
         if (Classes[i].size() < floor(nbSommets/nbClasses) or Classes[i].size() > floor(nbSommets/nbClasses)+1) {
