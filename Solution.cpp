@@ -3,10 +3,22 @@
 Solution::Solution(Graph &G, int p) : Graph(G) {
     nbClasses = p;
     Classes.resize(nbClasses);
-    // on rempli les classes un sommet a la fois (un dans la 0, puis un dans la 1, ..., puis un dans la p-1, puis un dans la 0, ...)
+    borne_inf = nbSommets / p - 1;
+    borne_sup = nbSommets / p + 1;
+
+    // On convertit les sommets en vecteur pour leur donner un ordre aléatoire
+    vector<int> vec(Sommets.begin(), Sommets.end()); 
+    for (int i=0; i<nbSommets; i++){
+        int j = rand() % (nbSommets - i) + i;  // Nombre aléatoire entre 0 et nbSommets
+        int temp = vec[i];
+        vec[i] = vec[j];
+        vec[j] = temp;
+    }
+
+    // On remplit les classes un sommet a la fois (un dans la 0, puis un dans la 1, ..., puis un dans la p-1, puis un dans la 0, ...)
     int compteur=0;
-    for (auto &sommet: Sommets) {
-        Classes[compteur % nbClasses].insert(sommet);
+    for (int i=0; i<nbSommets; i++) {
+        Classes[compteur % nbClasses].insert(vec[i]);
         compteur++;
     }
 }

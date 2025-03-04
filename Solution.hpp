@@ -11,6 +11,8 @@ class Solution : public Graph{
         // Attributs
         int nbClasses;
         vector<unordered_set<int>> Classes;
+        int borne_inf;
+        int borne_sup;
     
         // Constructeur
         Solution(Graph &G, int p);
