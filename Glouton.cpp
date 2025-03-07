@@ -28,7 +28,7 @@ double Glouton::delta_obj(int sommet, int classe_depart, int classe_arrivee){
 }
 
 double Glouton::gradient(int iter_max){
-    cout << borne_inf << " " << borne_sup << endl;
+    // cout << borne_inf << " " << borne_sup << endl;
     double valeurObj = ValeurObj();
     double min;
 
@@ -36,7 +36,7 @@ double Glouton::gradient(int iter_max){
     int iter = 0;
 
     while(!is_optimal and iter<iter_max){   // On stoppe si pas d'amélioration de l'objectif ou si nombre max d'itérations
-        cout << "iter " << iter << ", fobj = " << valeurObj << endl;
+        // cout << "iter " << iter << ", fobj = " << valeurObj << endl;
 
         iter++;
         min = 0;    // On ne cherche que des solutions diminuant la fonction objectif
@@ -55,7 +55,7 @@ double Glouton::gradient(int iter_max){
                             if (int(Classes[j].size()) < borne_sup){      // On teste pour chaque classe si elle peut recevoir le sommet
 
                                 double delta = delta_obj(s,i,j);   // Calcul variation fobj
-                                cout << delta << endl;
+                                // cout << delta << endl;
 
                                 if (delta < min){      // Si la solution est meilleure que min
 

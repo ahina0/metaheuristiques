@@ -8,8 +8,6 @@ void Enumeration::explicite(){
 
     double valeurObj, min = ValeurObj();
 
-    cout << " val init : " << min << endl;
-
     for (int x=0; x<pow(nbClasses, nbSommets); x++){        // Pour tout x dans ER :
         int i = x;
         vector< unordered_set<int> > classes(nbClasses);
@@ -30,5 +28,5 @@ void Enumeration::explicite(){
         }
     }
 
-    cout << "Valeur optimale pour " << nbClasses << " classes : " << min << endl;
+    cout << "Valeur optimale par énumération explicite pour " << nbClasses << " classes : " << min << endl;
 }

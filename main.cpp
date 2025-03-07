@@ -22,7 +22,7 @@ int main(int argc, char ** argv){
     while (!fin){
 
         cout << endl << "partitionnement en " << k << " classes" << endl << endl;
-        cout << "1 pour afficher le graphe" << endl << "2 pour utiliser l'algolrithme d'énumération (pas plus de 30 sommets)" << endl;
+        cout << "1 pour afficher le graphe" << endl << "2 pour utiliser l'algolrithme d'énumération (pas plus de 25 sommets)" << endl;
         cout << "3 pour la méthode du gradient sans optimisation" << endl;
         cout << "4 pour changer de fichier"  << endl << "5 pour changer le nombre de classes" << endl << "0 pour quitter" << endl;
         int i;
