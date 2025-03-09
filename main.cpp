@@ -3,8 +3,15 @@
 #include "Enumeration.hpp"
 #include "Glouton.hpp"
 #include <algorithm>
+#include <chrono>
+
+using namespace std::chrono;
+
 
 int main(int argc, char ** argv){
+
+    auto t1=steady_clock::now(), t2=steady_clock::now();
+    milliseconds s;
 
     srand(time(nullptr));
 
@@ -37,9 +44,15 @@ int main(int argc, char ** argv){
                 G.print_graph();
                 break;
 
-            case 2: 
+            case 2:
+                t1 = steady_clock::now();
+
                 {Enumeration E(G,k);
                 E.explicite();}
+
+                t2 = steady_clock::now();
+                s = duration_cast<milliseconds>(t2 - t1);
+                cout << "temps en ms : " << s.count() << endl;
                 break;
 
             case 3:
@@ -59,12 +72,19 @@ int main(int argc, char ** argv){
                 } else {
                     vector<double> optimaux(iter_algo);
                     double somme = 0;
+                    
+                    t1 = steady_clock::now();
+                    
                     for (int i=0; i<iter_algo; i++){
                         Glouton Gl(G,k);
                         optimaux[i] = Gl.gradient(iter_max);
                         somme += optimaux[i];
                     }
-
+                    
+                    t2 = steady_clock::now();
+                    s = duration_cast<milliseconds>(t2 - t1);
+                    cout << "temps en ms : " << s.count() << endl;
+                    
                     // Calculs statistiques
                     sort(optimaux.begin(), optimaux.end());
                     cout << "Meilleur optimum local : " << optimaux[0] << endl;
