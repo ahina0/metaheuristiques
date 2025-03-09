@@ -9,7 +9,7 @@ class Enumeration : public Solution {
     
         Enumeration(Graph &G, int p);
 
-        void explicite();
+        double explicite();
         // void implicite();
 
 };

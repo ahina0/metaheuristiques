@@ -4,7 +4,7 @@
 Enumeration::Enumeration(Graph &G, int p): Solution(G,p){}
 
 
-void Enumeration::explicite(){
+double Enumeration::explicite(){
 
     double valeurObj, min = ValeurObj();
 
@@ -28,5 +28,5 @@ void Enumeration::explicite(){
         }
     }
 
-    cout << "Valeur optimale par énumération explicite pour " << nbClasses << " classes : " << min << endl;
+    return min;
 }
