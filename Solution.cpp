@@ -3,9 +3,9 @@
 Solution::Solution(Graph &G, int p) : Graph(G) {
     nbClasses = p;
     Classes.resize(nbClasses);
-    // A peu près équité
-    borne_inf = floor(nbSommets / p);
-    borne_sup = floor(nbSommets / p) + 1;
+    // A peu près équité, choix : 1%
+    borne_inf = floor((nbSommets/p) * (99/100));
+    borne_sup = ceil((nbSommets/p) * (101/100));
 
     // On convertit les sommets en vecteur pour leur donner un ordre aléatoire
     vector<int> vec(Sommets.begin(), Sommets.end()); 
