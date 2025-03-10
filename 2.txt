@@ -322,7 +322,7 @@ Meilleur optimum local : 0
 Pire optimum local : 0
 Moyenne : 0
 Médiane : 0
-Meilleur optimum local trouvé 103 fois
+Meilleur optimum local trouvé 100 fois
 temps en ms : 5
 
 
