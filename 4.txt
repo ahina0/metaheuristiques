@@ -1,0 +1,560 @@
+Partitionnement en 4 classes
+
+
+
+quatreSommets.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 2
+temps en ms : 1
+
+Gradient :
+Meilleur optimum local : 2
+Pire optimum local : 3
+Moyenne : 2.42
+Médiane : 2
+Meilleur optimum local trouvé 58 fois
+temps en ms : 3
+
+
+cinqSommets.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 7
+temps en ms : 5
+
+Gradient :
+Meilleur optimum local : 7
+Pire optimum local : 7
+Moyenne : 7
+Médiane : 7
+Meilleur optimum local trouvé 100 fois
+temps en ms : 2
+
+
+dixSommets.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 22
+temps en ms : 9346
+
+Gradient :
+Meilleur optimum local : 22
+Pire optimum local : 24
+Moyenne : 22.45
+Médiane : 22
+Meilleur optimum local trouvé 58 fois
+temps en ms : 11
+
+
+quinzeSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 70
+Pire optimum local : 72
+Moyenne : 70.42
+Médiane : 70
+Meilleur optimum local trouvé 64 fois
+temps en ms : 20
+
+
+dixSeptSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 92
+Pire optimum local : 95
+Moyenne : 93.12
+Médiane : 93
+Meilleur optimum local trouvé 18 fois
+temps en ms : 18
+
+
+vingtSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 62
+Pire optimum local : 74
+Moyenne : 67.64
+Médiane : 67.5
+Meilleur optimum local trouvé 1 fois
+temps en ms : 122
+
+
+vingtEtunSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 162
+Pire optimum local : 165
+Moyenne : 162.49
+Médiane : 162
+Meilleur optimum local trouvé 61 fois
+temps en ms : 24
+
+
+vingtDeuxSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 163
+Pire optimum local : 166
+Moyenne : 163.88
+Médiane : 164
+Meilleur optimum local trouvé 41 fois
+temps en ms : 62
+
+
+vingtTroisSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 176
+Pire optimum local : 180
+Moyenne : 177.33
+Médiane : 177
+Meilleur optimum local trouvé 14 fois
+temps en ms : 34
+
+
+vingtQuatreSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 194
+Pire optimum local : 195
+Moyenne : 194.81
+Médiane : 195
+Meilleur optimum local trouvé 19 fois
+temps en ms : 104
+
+
+vingtCinqSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 230
+Pire optimum local : 233
+Moyenne : 230.49
+Médiane : 230
+Meilleur optimum local trouvé 59 fois
+temps en ms : 33
+
+
+trenteSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 297
+Pire optimum local : 303
+Moyenne : 298.41
+Médiane : 298
+Meilleur optimum local trouvé 28 fois
+temps en ms : 180
+
+
+cinquanteSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 312
+Pire optimum local : 349
+Moyenne : 327.27
+Médiane : 326.5
+Meilleur optimum local trouvé 1 fois
+temps en ms : 1262
+
+
+centSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 1316
+Pire optimum local : 1395
+Moyenne : 1351.33
+Médiane : 1352
+Meilleur optimum local trouvé 1 fois
+temps en ms : 15260
+
+
+cinqCentSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 4530
+Pire optimum local : 4680
+Moyenne : 4605.7
+Médiane : 4604.5
+Meilleur optimum local trouvé 1 fois
+temps en ms : 2367789
+
+
+RG_50_5.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 16.1
+Pire optimum local : 58.45
+Moyenne : 27.774
+Médiane : 25.6
+Meilleur optimum local trouvé 1 fois
+temps en ms : 1458
+
+
+RG_23_5.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 2.21
+Pire optimum local : 13.99
+Moyenne : 5.1882
+Médiane : 4.575
+Meilleur optimum local trouvé 3 fois
+temps en ms : 101
+
+
+connex_10.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 4
+temps en ms : 2054
+
+Gradient :
+Meilleur optimum local : 4
+Pire optimum local : 6
+Moyenne : 4.84
+Médiane : 5
+Meilleur optimum local trouvé 40 fois
+temps en ms : 7
+
+
+huitSommets_12.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 3.7
+temps en ms : 548
+
+Gradient :
+Meilleur optimum local : 3.7
+Pire optimum local : 5.1
+Moyenne : 3.855
+Médiane : 3.7
+Meilleur optimum local trouvé 56 fois
+temps en ms : 14
+
+
+deuxTriangles.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 5
+temps en ms : 25
+
+Gradient :
+Meilleur optimum local : 5
+Pire optimum local : 5
+Moyenne : 5
+Médiane : 5
+Meilleur optimum local trouvé 100 fois
+temps en ms : 3
+
+
+kl_graph.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 2
+temps en ms : 25
+
+Gradient :
+Meilleur optimum local : 2
+Pire optimum local : 2
+Moyenne : 2
+Médiane : 2
+Meilleur optimum local trouvé 100 fois
+temps en ms : 4
+
+
+huitSommets_11.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 8
+temps en ms : 547
+
+Gradient :
+Meilleur optimum local : 8
+Pire optimum local : 9
+Moyenne : 8.31
+Médiane : 8
+Meilleur optimum local trouvé 69 fois
+temps en ms : 11
+
+
+centSommets_3.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 321.7
+Pire optimum local : 445.2
+Moyenne : 360.061
+Médiane : 354.375
+Meilleur optimum local trouvé 1 fois
+temps en ms : 18246
+
+
+RG_13_3.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 4.69
+temps en ms : 689270
+
+Gradient :
+Meilleur optimum local : 4.82
+Pire optimum local : 9.57
+Moyenne : 6.2276
+Médiane : 5.92
+Meilleur optimum local trouvé 2 fois
+temps en ms : 18
+
+
+dixSommets_2.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 5.1
+temps en ms : 9116
+
+Gradient :
+Meilleur optimum local : 5.1
+Pire optimum local : 8.7
+Moyenne : 6.401
+Médiane : 5.8
+Meilleur optimum local trouvé 16 fois
+temps en ms : 14
+
+
+CG_25_4.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 1.65
+Pire optimum local : 25.65
+Moyenne : 9.3285
+Médiane : 8.85
+Meilleur optimum local trouvé 39 fois
+temps en ms : 142
+
+
+cG_25_4.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 0.5
+Pire optimum local : 27.85
+Moyenne : 10.8625
+Médiane : 12.65
+Meilleur optimum local trouvé 38 fois
+temps en ms : 134
+
+
+random_10.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 6.91
+temps en ms : 9239
+
+Gradient :
+Meilleur optimum local : 6.91
+Pire optimum local : 9.7
+Moyenne : 7.6187
+Médiane : 7.16
+Meilleur optimum local trouvé 14 fois
+temps en ms : 15
+
+
+huitSommets_weight.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 2.9
+temps en ms : 547
+
+Gradient :
+Meilleur optimum local : 2.9
+Pire optimum local : 3.85
+Moyenne : 3.1315
+Médiane : 2.9
+Meilleur optimum local trouvé 57 fois
+temps en ms : 15
+
+
+test_cluster.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 27.925
+Pire optimum local : 44.85
+Moyenne : 34.6637
+Médiane : 34.675
+Meilleur optimum local trouvé 1 fois
+temps en ms : 442
+
+
+huitSommets.txt
+
+Enumeration :
+Valeur optimale par énumération explicite pour 4 classes : 6
+temps en ms : 545
+
+Gradient :
+Meilleur optimum local : 6
+Pire optimum local : 8
+Moyenne : 6.74
+Médiane : 6
+Meilleur optimum local trouvé 51 fois
+temps en ms : 13
+
+
+test_gno.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 72
+Pire optimum local : 102
+Moyenne : 82.92
+Médiane : 81
+Meilleur optimum local trouvé 3 fois
+temps en ms : 394
+
+
+28_3_clusters_ClusterGraph.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 29.025
+Pire optimum local : 51.225
+Moyenne : 34.8042
+Médiane : 34.575
+Meilleur optimum local trouvé 1 fois
+temps en ms : 433
+
+
+10_3_graph.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 29.4
+Pire optimum local : 46.975
+Moyenne : 34.355
+Médiane : 33.95
+Meilleur optimum local trouvé 1 fois
+temps en ms : 434
+
+
+28_3_clusters.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 29.4
+Pire optimum local : 46.975
+Moyenne : 34.355
+Médiane : 33.95
+Meilleur optimum local trouvé 1 fois
+temps en ms : 434
+
+
+28_3_clusters_SparseCluster.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 19.3
+Pire optimum local : 41.975
+Moyenne : 24.6382
+Médiane : 23.9
+Meilleur optimum local trouvé 1 fois
+temps en ms : 393
+
+
+28_3_clusters_SomeCluster.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 19.9
+Pire optimum local : 38
+Moyenne : 24.7482
+Médiane : 24.475
+Meilleur optimum local trouvé 1 fois
+temps en ms : 401
+
+
+28_3_clusters_EquiCluster.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 24.025
+Pire optimum local : 43.625
+Moyenne : 29.8547
+Médiane : 29.1375
+Meilleur optimum local trouvé 1 fois
+temps en ms : 409
+
+
+football.txt
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 149
+Pire optimum local : 275
+Moyenne : 189.13
+Médiane : 182.5
+Meilleur optimum local trouvé 1 fois
+temps en ms : 28267
