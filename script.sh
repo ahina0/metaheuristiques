@@ -8,8 +8,8 @@ fres=../results/${1}_classes.txt
 fenum=../results/Enum_${1}.txt
 fgrad=../results/Grad_${1}.txt
 data="../data/"
-# "dixMille"  "cinqCent" "mille"
-Exemples=("quatre" "cinq" "dix" "quinze" "dixSept" "vingt" "vingtEtun" "vingtDeux" "vingtTrois" "vingtQuatre" "vingtCinq" "trente" "cinquante" "cent")
+# "dixMille" 
+Exemples=("quatre" "cinq" "dix" "quinze" "dixSept" "vingt" "vingtEtun" "vingtDeux" "vingtTrois" "vingtQuatre" "vingtCinq" "trente" "cinquante" "cent" "cinqCent" "mille")
 Autres=("RG_50_5" "RG_23_5" "connex_10" "huitSommets_12" "deuxTriangles" "kl_graph" "huitSommets_11" "centSommets_3" "RG_13_3" "dixSommets_2" "CG_25_4" "cG_25_4" "random_10" "huitSommets_weight" "test_cluster" "huitSommets" "test_gno" "28_3_clusters_ClusterGraph" "10_3_graph" "28_3_clusters" "28_3_clusters_SparseCluster" "28_3_clusters_SomeCluster" "28_3_clusters_EquiCluster")
 
 
