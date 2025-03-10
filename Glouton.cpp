@@ -36,12 +36,8 @@ double Glouton::gradient(int iter_max){
     int iter = 0;
 
     while(!is_optimal and iter<iter_max){   // On stoppe si pas d'amélioration de l'objectif ou si nombre max d'itérations
-        // cout << "iter " << iter << ", fobj = " << valeurObj << endl;
 
-        if (iter == iter_max-1) {
-            cout << "caca" << endl;
-        }
-
+        
         iter++;
         min = 0;    // On ne cherche que des solutions diminuant la fonction objectif
         int sommet;
