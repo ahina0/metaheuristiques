@@ -1,0 +1,403 @@
+Partitionnement en 20 classes
+
+
+
+quatreSommets.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+cinqSommets.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+dixSommets.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+quinzeSommets.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+dixSeptSommets.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+vingtSommets.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+vingtEtunSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 206
+Pire optimum local : 206
+Moyenne : 206
+Médiane : 206
+Meilleur optimum local trouvé 100 fois
+temps en ms : 17
+
+
+vingtDeuxSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 211
+Pire optimum local : 211
+Moyenne : 211
+Médiane : 211
+Meilleur optimum local trouvé 100 fois
+temps en ms : 28
+
+
+vingtTroisSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 225
+Pire optimum local : 225
+Moyenne : 225
+Médiane : 225
+Meilleur optimum local trouvé 100 fois
+temps en ms : 33
+
+
+vingtQuatreSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 249
+Pire optimum local : 249
+Moyenne : 249
+Médiane : 249
+Meilleur optimum local trouvé 100 fois
+temps en ms : 39
+
+
+vingtCinqSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 291
+Pire optimum local : 291
+Moyenne : 291
+Médiane : 291
+Meilleur optimum local trouvé 100 fois
+temps en ms : 40
+
+
+trenteSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 385
+Pire optimum local : 385
+Moyenne : 385
+Médiane : 385
+Meilleur optimum local trouvé 100 fois
+temps en ms : 75
+
+
+cinquanteSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 460
+Pire optimum local : 468
+Moyenne : 463.1
+Médiane : 463
+Meilleur optimum local trouvé 5 fois
+temps en ms : 1201
+
+
+centSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 1813
+Pire optimum local : 1850
+Moyenne : 1825.99
+Médiane : 1825
+Meilleur optimum local trouvé 1 fois
+temps en ms : 18172
+
+
+cinqCentSommets.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 6225
+Pire optimum local : 6341
+Moyenne : 6282.35
+Médiane : 6281.5
+Meilleur optimum local trouvé 1 fois
+temps en ms : 2696504
+
+
+RG_50_5.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 89.05
+Pire optimum local : 98.15
+Moyenne : 93.7365
+Médiane : 93.35
+Meilleur optimum local trouvé 1 fois
+temps en ms : 1767
+
+
+RG_23_5.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 25.47
+Pire optimum local : 25.87
+Moyenne : 25.505
+Médiane : 25.47
+Meilleur optimum local trouvé 84 fois
+temps en ms : 63
+
+
+connex_10.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+huitSommets_12.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+deuxTriangles.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+kl_graph.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+huitSommets_11.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+centSommets_3.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 757.55
+Pire optimum local : 789.35
+Moyenne : 773.982
+Médiane : 773.325
+Meilleur optimum local trouvé 1 fois
+temps en ms : 21020
+
+
+RG_13_3.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+dixSommets_2.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+CG_25_4.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 31.95
+Pire optimum local : 32.45
+Moyenne : 32.037
+Médiane : 31.95
+Meilleur optimum local trouvé 52 fois
+temps en ms : 128
+
+
+cG_25_4.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 35.1
+Pire optimum local : 35.5
+Moyenne : 35.207
+Médiane : 35.2
+Meilleur optimum local trouvé 42 fois
+temps en ms : 130
+
+
+random_10.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+huitSommets_weight.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+test_cluster.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 72.95
+Pire optimum local : 73.4
+Moyenne : 73.071
+Médiane : 73.05
+Meilleur optimum local trouvé 9 fois
+temps en ms : 275
+
+
+huitSommets.txt
+
+On ne traite pas les graphes en dessous de 21 sommets pour 20 classes
+
+
+test_gno.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 136
+Pire optimum local : 136
+Moyenne : 136
+Médiane : 136
+Meilleur optimum local trouvé 100 fois
+temps en ms : 174
+
+
+28_3_clusters_ClusterGraph.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 72.95
+Pire optimum local : 73.7
+Moyenne : 73.0755
+Médiane : 73.05
+Meilleur optimum local trouvé 12 fois
+temps en ms : 289
+
+
+10_3_graph.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 72.95
+Pire optimum local : 73.55
+Moyenne : 73.0885
+Médiane : 73.05
+Meilleur optimum local trouvé 5 fois
+temps en ms : 276
+
+
+28_3_clusters.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 72.95
+Pire optimum local : 73.55
+Moyenne : 73.0885
+Médiane : 73.05
+Meilleur optimum local trouvé 5 fois
+temps en ms : 277
+
+
+28_3_clusters_SparseCluster.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 62.65
+Pire optimum local : 63.25
+Moyenne : 62.8035
+Médiane : 62.8
+Meilleur optimum local trouvé 14 fois
+temps en ms : 275
+
+
+28_3_clusters_SomeCluster.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 62.875
+Pire optimum local : 63.675
+Moyenne : 63.078
+Médiane : 63.025
+Meilleur optimum local trouvé 7 fois
+temps en ms : 280
+
+
+28_3_clusters_EquiCluster.txt
+
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 67.5
+Pire optimum local : 68.25
+Moyenne : 67.6345
+Médiane : 67.6
+Meilleur optimum local trouvé 22 fois
+temps en ms : 294
+
+
+football.txt
+Enumeration :
+Nombre de sommets trop grand pour l'énumération
+
+Gradient :
+Meilleur optimum local : 384
+Pire optimum local : 444
+Moyenne : 413.08
+Médiane : 411.5
+Meilleur optimum local trouvé 1 fois
+temps en ms : 21265
