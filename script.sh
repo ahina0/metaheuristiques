@@ -1,19 +1,23 @@
 #Vérifie qu'on a bien le nombre de classes en argument
 if [ -z "$1" ]; then
-  echo "Erreur : vous devez fournir un argument (nombre de classes)."
+  echo "Erreur : un argument requis (nombre de classes)."
   exit 1
 fi
 
-fres=../results/${1}.txt
+fres=../results/${1}_classes.txt
+fenum=../results/Enum_${1}.txt
+fgrad=../results/Grad_${1}.txt
 data="../data/"
-# "cinqCent" "mille" "dixMille" 
+# "dixMille"  "cinqCent" "mille"
 Exemples=("quatre" "cinq" "dix" "quinze" "dixSept" "vingt" "vingtEtun" "vingtDeux" "vingtTrois" "vingtQuatre" "vingtCinq" "trente" "cinquante" "cent")
 Autres=("RG_50_5" "RG_23_5" "connex_10" "huitSommets_12" "deuxTriangles" "kl_graph" "huitSommets_11" "centSommets_3" "RG_13_3" "dixSommets_2" "CG_25_4" "cG_25_4" "random_10" "huitSommets_weight" "test_cluster" "huitSommets" "test_gno" "28_3_clusters_ClusterGraph" "10_3_graph" "28_3_clusters" "28_3_clusters_SparseCluster" "28_3_clusters_SomeCluster" "28_3_clusters_EquiCluster")
 
 
 echo "Partitionnement en ${1} classes" > $fres
 echo >> $fres
-
+echo "Nom nbSommets valOpt temps" > $fenum
+echo "Nom nbSommets valOpt temps" > $fgrad
+# meilleurOpt pireOpt mediane moyenne nbMeilleurOpt
 
 #exemples de graphes:
 for ex in ${Exemples[@]}; do
