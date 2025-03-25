@@ -1,4 +1,4 @@
-# metaheuristiques
+# Métaheuristiques
 Pour générer l'exécutable, utiliser le makefile en entrant la commande "make"
 <br>
 
