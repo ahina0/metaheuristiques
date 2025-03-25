@@ -3,7 +3,7 @@ Pour générer l'exécutable, utiliser le makefile en entrant la commande "make"
 
 Pour lancer une instance précise, mettre en argument le nom du fichier : ./exec instance
 
-//
+<br>
 
 Pour utiliser le script shell pour lancer automatiquement toutes les instances, il faut à la racine du projet 3 dossiers :
 
