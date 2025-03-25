@@ -8,10 +8,10 @@ Pour lancer une instance précise, mettre en argument le nom du fichier : ./exec
 
 Pour lancer automatiquement toutes les instances, utiliser le script shell en faisant attention à ce que les fichiers soient organisés comme suit :
 
-_ un dossier contenant les fichiers cpp, hpp, Makefile et script.sh
+- un dossier contenant les fichiers cpp, hpp, Makefile et script.sh;
 
-_ un dossier "data" contenant les données
+- un dossier "data" contenant les données;
 
-_ un dossier "results" qui contiendra les fichiers enregistrant les résultats des expérimentations
+- un dossier "results" qui contiendra les fichiers enregistrant les résultats des expérimentations.
 
 Pour lancer le script, mettre en argument le nombre de classes : sh script.sh nb_classes
