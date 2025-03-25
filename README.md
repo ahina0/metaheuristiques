@@ -1,7 +1,8 @@
 # metaheuristiques
 Pour générer l'exécutable, utiliser le makefile en entrant la commande "make"
 
-Au lancement, mettre en argument le nom du fichier
+Pour lancer une instance précise, mettre en argument le nom du fichier : ./exec instance
+
 
 
 Pour utiliser le script shell pour lancer automatiquement les instances, il faut à la racine du projet 3 dossiers :
