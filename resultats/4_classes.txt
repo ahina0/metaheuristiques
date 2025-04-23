@@ -1,0 +1,1298 @@
+Partitionnement en 4 classes
+
+
+
+quatreSommets.txt
+
+On ne traite pas les graphes en dessous de 5 sommets pour 4 classes
+
+
+cinqSommets.txt
+
+Gradient :
+Meilleur optimum local : 7
+Pire optimum local : 7
+Moyenne : 7
+Médiane : 7
+Meilleur optimum local trouvé 100 fois
+temps en ms : 2
+Gradient avec heuristique :
+Meilleur optimum local : 7
+Pire optimum local : 7
+Moyenne : 7
+Médiane : 7
+Meilleur optimum local trouvé 100 fois
+temps en ms : 2
+Recuit Simule :
+Meilleur optimum local : 7
+Pire optimum local : 7
+Moyenne : 7
+Médiane : 7
+Meilleur optimum local trouvé 100 fois
+temps en ms : 387
+Tabou sans aspiration :
+Meilleur optimum local : 7
+Pire optimum local : 7
+Moyenne : 7
+Médiane : 7
+Meilleur optimum local trouvé 100 fois
+temps en ms : 22
+Tabou avec aspiration :
+Meilleur optimum local : 7
+Pire optimum local : 7
+Moyenne : 7
+Médiane : 7
+Meilleur optimum local trouvé 100 fois
+temps en ms : 28
+
+
+dixSommets.txt
+
+Gradient :
+Meilleur optimum local : 22
+Pire optimum local : 24
+Moyenne : 22.35
+Médiane : 22
+Meilleur optimum local trouvé 66 fois
+temps en ms : 11
+Gradient avec heuristique :
+Meilleur optimum local : 22
+Pire optimum local : 25
+Moyenne : 23.05
+Médiane : 23
+Meilleur optimum local trouvé 32 fois
+temps en ms : 6
+Recuit Simule :
+Meilleur optimum local : 22
+Pire optimum local : 22
+Moyenne : 22
+Médiane : 22
+Meilleur optimum local trouvé 100 fois
+temps en ms : 2247
+Tabou sans aspiration :
+Meilleur optimum local : 22
+Pire optimum local : 22
+Moyenne : 22
+Médiane : 22
+Meilleur optimum local trouvé 100 fois
+temps en ms : 157
+Tabou avec aspiration :
+Meilleur optimum local : 22
+Pire optimum local : 22
+Moyenne : 22
+Médiane : 22
+Meilleur optimum local trouvé 100 fois
+temps en ms : 167
+
+
+quinzeSommets.txt
+
+Gradient :
+Meilleur optimum local : 70
+Pire optimum local : 72
+Moyenne : 70.47
+Médiane : 70
+Meilleur optimum local trouvé 63 fois
+temps en ms : 19
+Gradient avec heuristique :
+Meilleur optimum local : 70
+Pire optimum local : 76
+Moyenne : 72.02
+Médiane : 72
+Meilleur optimum local trouvé 8 fois
+temps en ms : 9
+Recuit Simule :
+Meilleur optimum local : 70
+Pire optimum local : 70
+Moyenne : 70
+Médiane : 70
+Meilleur optimum local trouvé 100 fois
+temps en ms : 5881
+Tabou sans aspiration :
+Meilleur optimum local : 70
+Pire optimum local : 71
+Moyenne : 70.04
+Médiane : 70
+Meilleur optimum local trouvé 96 fois
+temps en ms : 403
+Tabou avec aspiration :
+Meilleur optimum local : 70
+Pire optimum local : 71
+Moyenne : 70.16
+Médiane : 70
+Meilleur optimum local trouvé 84 fois
+temps en ms : 363
+
+
+dixSeptSommets.txt
+
+Gradient :
+Meilleur optimum local : 92
+Pire optimum local : 95
+Moyenne : 92.99
+Médiane : 93
+Meilleur optimum local trouvé 21 fois
+temps en ms : 19
+Gradient avec heuristique :
+Meilleur optimum local : 92
+Pire optimum local : 96
+Moyenne : 93.19
+Médiane : 93
+Meilleur optimum local trouvé 21 fois
+temps en ms : 19
+Recuit Simule :
+Meilleur optimum local : 92
+Pire optimum local : 92
+Moyenne : 92
+Médiane : 92
+Meilleur optimum local trouvé 100 fois
+temps en ms : 8079
+Tabou sans aspiration :
+Meilleur optimum local : 92
+Pire optimum local : 94
+Moyenne : 92.55
+Médiane : 93
+Meilleur optimum local trouvé 47 fois
+temps en ms : 1831
+Tabou avec aspiration :
+Meilleur optimum local : 92
+Pire optimum local : 94
+Moyenne : 92.55
+Médiane : 93
+Meilleur optimum local trouvé 47 fois
+temps en ms : 2095
+
+
+vingtSommets.txt
+
+Gradient :
+Meilleur optimum local : 63
+Pire optimum local : 77
+Moyenne : 67.97
+Médiane : 68
+Meilleur optimum local trouvé 2 fois
+temps en ms : 111
+Gradient avec heuristique :
+Meilleur optimum local : 65
+Pire optimum local : 79
+Moyenne : 69.87
+Médiane : 70
+Meilleur optimum local trouvé 7 fois
+temps en ms : 45
+Recuit Simule :
+Meilleur optimum local : 62
+Pire optimum local : 69
+Moyenne : 64.85
+Médiane : 65
+Meilleur optimum local trouvé 7 fois
+temps en ms : 31030
+Tabou sans aspiration :
+Meilleur optimum local : 62
+Pire optimum local : 64
+Moyenne : 62.84
+Médiane : 63
+Meilleur optimum local trouvé 22 fois
+temps en ms : 2791
+Tabou avec aspiration :
+Meilleur optimum local : 62
+Pire optimum local : 67
+Moyenne : 63.51
+Médiane : 63
+Meilleur optimum local trouvé 9 fois
+temps en ms : 3089
+
+
+vingtEtunSommets.txt
+
+Gradient :
+Meilleur optimum local : 162
+Pire optimum local : 164
+Moyenne : 162.44
+Médiane : 162
+Meilleur optimum local trouvé 61 fois
+temps en ms : 25
+Gradient avec heuristique :
+Meilleur optimum local : 162
+Pire optimum local : 164
+Moyenne : 162.41
+Médiane : 162
+Meilleur optimum local trouvé 63 fois
+temps en ms : 24
+Recuit Simule :
+Meilleur optimum local : 162
+Pire optimum local : 164
+Moyenne : 162.22
+Médiane : 162
+Meilleur optimum local trouvé 83 fois
+temps en ms : 7387
+Tabou sans aspiration :
+Meilleur optimum local : 162
+Pire optimum local : 162
+Moyenne : 162
+Médiane : 162
+Meilleur optimum local trouvé 100 fois
+temps en ms : 4299
+Tabou avec aspiration :
+Meilleur optimum local : 162
+Pire optimum local : 162
+Moyenne : 162
+Médiane : 162
+Meilleur optimum local trouvé 100 fois
+temps en ms : 4752
+
+
+vingtDeuxSommets.txt
+
+Gradient :
+Meilleur optimum local : 163
+Pire optimum local : 167
+Moyenne : 164
+Médiane : 164
+Meilleur optimum local trouvé 35 fois
+temps en ms : 59
+Gradient avec heuristique :
+Meilleur optimum local : 163
+Pire optimum local : 170
+Moyenne : 164.9
+Médiane : 165
+Meilleur optimum local trouvé 14 fois
+temps en ms : 32
+Recuit Simule :
+Meilleur optimum local : 163
+Pire optimum local : 163
+Moyenne : 163
+Médiane : 163
+Meilleur optimum local trouvé 100 fois
+temps en ms : 16980
+Tabou sans aspiration :
+Meilleur optimum local : 163
+Pire optimum local : 163
+Moyenne : 163
+Médiane : 163
+Meilleur optimum local trouvé 100 fois
+temps en ms : 3320
+Tabou avec aspiration :
+Meilleur optimum local : 163
+Pire optimum local : 163
+Moyenne : 163
+Médiane : 163
+Meilleur optimum local trouvé 100 fois
+temps en ms : 3472
+
+
+vingtTroisSommets.txt
+
+Gradient :
+Meilleur optimum local : 176
+Pire optimum local : 180
+Moyenne : 177.32
+Médiane : 177
+Meilleur optimum local trouvé 16 fois
+temps en ms : 34
+Gradient avec heuristique :
+Meilleur optimum local : 176
+Pire optimum local : 180
+Moyenne : 177.99
+Médiane : 178
+Meilleur optimum local trouvé 5 fois
+temps en ms : 19
+Recuit Simule :
+Meilleur optimum local : 176
+Pire optimum local : 176
+Moyenne : 176
+Médiane : 176
+Meilleur optimum local trouvé 100 fois
+temps en ms : 33006
+Tabou sans aspiration :
+Meilleur optimum local : 176
+Pire optimum local : 177
+Moyenne : 176.39
+Médiane : 176
+Meilleur optimum local trouvé 61 fois
+temps en ms : 2040
+Tabou avec aspiration :
+Meilleur optimum local : 176
+Pire optimum local : 177
+Moyenne : 176.34
+Médiane : 176
+Meilleur optimum local trouvé 66 fois
+temps en ms : 1902
+
+
+vingtQuatreSommets.txt
+
+Gradient :
+Meilleur optimum local : 194
+Pire optimum local : 197
+Moyenne : 194.86
+Médiane : 195
+Meilleur optimum local trouvé 28 fois
+temps en ms : 83
+Gradient avec heuristique :
+Meilleur optimum local : 194
+Pire optimum local : 198
+Moyenne : 196.09
+Médiane : 196
+Meilleur optimum local trouvé 6 fois
+temps en ms : 34
+Recuit Simule :
+Meilleur optimum local : 194
+Pire optimum local : 194
+Moyenne : 194
+Médiane : 194
+Meilleur optimum local trouvé 100 fois
+temps en ms : 34568
+Tabou sans aspiration :
+Meilleur optimum local : 194
+Pire optimum local : 196
+Moyenne : 194.56
+Médiane : 195
+Meilleur optimum local trouvé 45 fois
+temps en ms : 5841
+Tabou avec aspiration :
+Meilleur optimum local : 194
+Pire optimum local : 196
+Moyenne : 194.61
+Médiane : 195
+Meilleur optimum local trouvé 40 fois
+temps en ms : 5863
+
+
+vingtCinqSommets.txt
+
+Gradient :
+Meilleur optimum local : 230
+Pire optimum local : 233
+Moyenne : 230.82
+Médiane : 231
+Meilleur optimum local trouvé 42 fois
+temps en ms : 34
+Gradient avec heuristique :
+Meilleur optimum local : 230
+Pire optimum local : 233
+Moyenne : 230.72
+Médiane : 231
+Meilleur optimum local trouvé 49 fois
+temps en ms : 34
+Recuit Simule :
+Meilleur optimum local : 230
+Pire optimum local : 233
+Moyenne : 230.31
+Médiane : 230
+Meilleur optimum local trouvé 78 fois
+temps en ms : 12174
+Tabou sans aspiration :
+Meilleur optimum local : 230
+Pire optimum local : 230
+Moyenne : 230
+Médiane : 230
+Meilleur optimum local trouvé 100 fois
+temps en ms : 8400
+Tabou avec aspiration :
+Meilleur optimum local : 230
+Pire optimum local : 230
+Moyenne : 230
+Médiane : 230
+Meilleur optimum local trouvé 100 fois
+temps en ms : 9140
+
+
+trenteSommets.txt
+
+Gradient :
+Meilleur optimum local : 297
+Pire optimum local : 302
+Moyenne : 298.31
+Médiane : 298
+Meilleur optimum local trouvé 30 fois
+temps en ms : 177
+Gradient avec heuristique :
+Meilleur optimum local : 297
+Pire optimum local : 308
+Moyenne : 300.27
+Médiane : 300
+Meilleur optimum local trouvé 3 fois
+temps en ms : 87
+Recuit Simule :
+Meilleur optimum local : 297
+Pire optimum local : 298
+Moyenne : 297.13
+Médiane : 297
+Meilleur optimum local trouvé 87 fois
+temps en ms : 63063
+Tabou sans aspiration :
+Meilleur optimum local : 297
+Pire optimum local : 299
+Moyenne : 297.02
+Médiane : 297
+Meilleur optimum local trouvé 99 fois
+temps en ms : 11132
+Tabou avec aspiration :
+Meilleur optimum local : 297
+Pire optimum local : 297
+Moyenne : 297
+Médiane : 297
+Meilleur optimum local trouvé 100 fois
+temps en ms : 11471
+
+
+cinquanteSommets.txt
+
+Gradient :
+Meilleur optimum local : 311
+Pire optimum local : 344
+Moyenne : 326.84
+Médiane : 327
+Meilleur optimum local trouvé 1 fois
+temps en ms : 1284
+Gradient avec heuristique :
+Meilleur optimum local : 323
+Pire optimum local : 357
+Moyenne : 336.65
+Médiane : 335
+Meilleur optimum local trouvé 2 fois
+temps en ms : 517
+Recuit Simule :
+Meilleur optimum local : 306
+Pire optimum local : 343
+Moyenne : 316.23
+Médiane : 309
+Meilleur optimum local trouvé 20 fois
+temps en ms : 952575
+Tabou sans aspiration :
+Meilleur optimum local : 306
+Pire optimum local : 318
+Moyenne : 309.58
+Médiane : 309
+Meilleur optimum local trouvé 11 fois
+temps en ms : 79636
+Tabou avec aspiration :
+Meilleur optimum local : 306
+Pire optimum local : 326
+Moyenne : 313.57
+Médiane : 313
+Meilleur optimum local trouvé 2 fois
+temps en ms : 80522
+
+
+RG_50_5.txt
+
+Gradient :
+Meilleur optimum local : 16.65
+Pire optimum local : 55.65
+Moyenne : 29.0725
+Médiane : 27.45
+Meilleur optimum local trouvé 1 fois
+temps en ms : 1432
+Gradient avec heuristique :
+Meilleur optimum local : 21.7
+Pire optimum local : 74.45
+Moyenne : 45.054
+Médiane : 46.45
+Meilleur optimum local trouvé 1 fois
+temps en ms : 587
+Recuit Simule :
+Meilleur optimum local : 15.55
+Pire optimum local : 60.2
+Moyenne : 16.646
+Médiane : 15.75
+Meilleur optimum local trouvé 29 fois
+temps en ms : 482019
+Tabou sans aspiration :
+Meilleur optimum local : 15.55
+Pire optimum local : 48
+Moyenne : 22.0185
+Médiane : 21.2
+Meilleur optimum local trouvé 2 fois
+temps en ms : 71385
+Tabou avec aspiration :
+Meilleur optimum local : 15.6
+Pire optimum local : 42.3
+Moyenne : 23.4425
+Médiane : 22.275
+Meilleur optimum local trouvé 1 fois
+temps en ms : 71381
+
+
+RG_23_5.txt
+
+Gradient :
+Meilleur optimum local : 2.21
+Pire optimum local : 14.63
+Moyenne : 5.6186
+Médiane : 4.83
+Meilleur optimum local trouvé 4 fois
+temps en ms : 102
+Gradient avec heuristique :
+Meilleur optimum local : 8.84
+Pire optimum local : 23.2
+Moyenne : 16.0113
+Médiane : 16.28
+Meilleur optimum local trouvé 1 fois
+temps en ms : 24
+Recuit Simule :
+Meilleur optimum local : 2.21
+Pire optimum local : 6.95
+Moyenne : 2.2762
+Médiane : 2.21
+Meilleur optimum local trouvé 90 fois
+temps en ms : 45191
+Tabou sans aspiration :
+Meilleur optimum local : 2.21
+Pire optimum local : 16.86
+Moyenne : 5.5537
+Médiane : 2.49
+Meilleur optimum local trouvé 24 fois
+temps en ms : 1707
+Tabou avec aspiration :
+Meilleur optimum local : 2.21
+Pire optimum local : 15.69
+Moyenne : 5.0661
+Médiane : 2.475
+Meilleur optimum local trouvé 26 fois
+temps en ms : 1587
+
+
+connex_10.txt
+
+
+
+huitSommets_12.txt
+
+Gradient :
+Meilleur optimum local : 3.7
+Pire optimum local : 5.3
+Moyenne : 3.896
+Médiane : 3.7
+Meilleur optimum local trouvé 62 fois
+temps en ms : 14
+Gradient avec heuristique :
+Meilleur optimum local : 3.7
+Pire optimum local : 6.9
+Moyenne : 4.713
+Médiane : 4.6
+Meilleur optimum local trouvé 18 fois
+temps en ms : 6
+Recuit Simule :
+Meilleur optimum local : 3.7
+Pire optimum local : 3.8
+Moyenne : 3.706
+Médiane : 3.7
+Meilleur optimum local trouvé 94 fois
+temps en ms : 2110
+Tabou sans aspiration :
+Meilleur optimum local : 3.7
+Pire optimum local : 3.9
+Moyenne : 3.727
+Médiane : 3.7
+Meilleur optimum local trouvé 81 fois
+temps en ms : 88
+Tabou avec aspiration :
+Meilleur optimum local : 3.7
+Pire optimum local : 5
+Moyenne : 3.775
+Médiane : 3.7
+Meilleur optimum local trouvé 66 fois
+temps en ms : 95
+
+
+deuxTriangles.txt
+
+Gradient :
+Meilleur optimum local : 5
+Pire optimum local : 5
+Moyenne : 5
+Médiane : 5
+Meilleur optimum local trouvé 100 fois
+temps en ms : 4
+Gradient avec heuristique :
+Meilleur optimum local : 5
+Pire optimum local : 6
+Moyenne : 5.3
+Médiane : 5
+Meilleur optimum local trouvé 70 fois
+temps en ms : 2
+Recuit Simule :
+Meilleur optimum local : 5
+Pire optimum local : 5
+Moyenne : 5
+Médiane : 5
+Meilleur optimum local trouvé 100 fois
+temps en ms : 609
+Tabou sans aspiration :
+Meilleur optimum local : 5
+Pire optimum local : 5
+Moyenne : 5
+Médiane : 5
+Meilleur optimum local trouvé 100 fois
+temps en ms : 25
+Tabou avec aspiration :
+Meilleur optimum local : 5
+Pire optimum local : 5
+Moyenne : 5
+Médiane : 5
+Meilleur optimum local trouvé 100 fois
+temps en ms : 27
+
+
+kl_graph.txt
+
+Gradient :
+Meilleur optimum local : 2
+Pire optimum local : 2
+Moyenne : 2
+Médiane : 2
+Meilleur optimum local trouvé 100 fois
+temps en ms : 4
+Gradient avec heuristique :
+Meilleur optimum local : 2
+Pire optimum local : 4
+Moyenne : 2.52
+Médiane : 2
+Meilleur optimum local trouvé 59 fois
+temps en ms : 2
+Recuit Simule :
+Meilleur optimum local : 2
+Pire optimum local : 2
+Moyenne : 2
+Médiane : 2
+Meilleur optimum local trouvé 100 fois
+temps en ms : 706
+Tabou sans aspiration :
+Meilleur optimum local : 2
+Pire optimum local : 2
+Moyenne : 2
+Médiane : 2
+Meilleur optimum local trouvé 100 fois
+temps en ms : 23
+Tabou avec aspiration :
+Meilleur optimum local : 2
+Pire optimum local : 2
+Moyenne : 2
+Médiane : 2
+Meilleur optimum local trouvé 100 fois
+temps en ms : 26
+
+
+huitSommets_11.txt
+
+Gradient :
+Meilleur optimum local : 8
+Pire optimum local : 9
+Moyenne : 8.44
+Médiane : 8
+Meilleur optimum local trouvé 56 fois
+temps en ms : 10
+Gradient avec heuristique :
+Meilleur optimum local : 8
+Pire optimum local : 12
+Moyenne : 9.27
+Médiane : 9
+Meilleur optimum local trouvé 19 fois
+temps en ms : 4
+Recuit Simule :
+Meilleur optimum local : 8
+Pire optimum local : 8
+Moyenne : 8
+Médiane : 8
+Meilleur optimum local trouvé 100 fois
+temps en ms : 1296
+Tabou sans aspiration :
+Meilleur optimum local : 8
+Pire optimum local : 8
+Moyenne : 8
+Médiane : 8
+Meilleur optimum local trouvé 100 fois
+temps en ms : 88
+Tabou avec aspiration :
+Meilleur optimum local : 8
+Pire optimum local : 8
+Moyenne : 8
+Médiane : 8
+Meilleur optimum local trouvé 100 fois
+temps en ms : 99
+
+
+RG_13_3.txt
+
+Gradient :
+Meilleur optimum local : 4.69
+Pire optimum local : 8.84
+Moyenne : 6.198
+Médiane : 5.855
+Meilleur optimum local trouvé 2 fois
+temps en ms : 19
+Gradient avec heuristique :
+Meilleur optimum local : 4.69
+Pire optimum local : 10.51
+Moyenne : 6.2871
+Médiane : 5.92
+Meilleur optimum local trouvé 1 fois
+temps en ms : 18
+Recuit Simule :
+Meilleur optimum local : 4.69
+Pire optimum local : 5.52
+Moyenne : 4.8208
+Médiane : 4.755
+Meilleur optimum local trouvé 32 fois
+temps en ms : 10042
+Tabou sans aspiration :
+Meilleur optimum local : 4.69
+Pire optimum local : 4.69
+Moyenne : 4.69
+Médiane : 4.69
+Meilleur optimum local trouvé 100 fois
+temps en ms : 575
+Tabou avec aspiration :
+Meilleur optimum local : 4.69
+Pire optimum local : 5.82
+Moyenne : 4.8948
+Médiane : 4.79
+Meilleur optimum local trouvé 41 fois
+temps en ms : 649
+
+
+dixSommets_2.txt
+
+Gradient :
+Meilleur optimum local : 5.1
+Pire optimum local : 8.2
+Moyenne : 6.065
+Médiane : 5.8
+Meilleur optimum local trouvé 30 fois
+temps en ms : 15
+Gradient avec heuristique :
+Meilleur optimum local : 5.1
+Pire optimum local : 10.7
+Moyenne : 7.214
+Médiane : 7.4
+Meilleur optimum local trouvé 15 fois
+temps en ms : 7
+Recuit Simule :
+Meilleur optimum local : 5.1
+Pire optimum local : 5.8
+Moyenne : 5.143
+Médiane : 5.1
+Meilleur optimum local trouvé 93 fois
+temps en ms : 4195
+Tabou sans aspiration :
+Meilleur optimum local : 5.1
+Pire optimum local : 5.8
+Moyenne : 5.158
+Médiane : 5.1
+Meilleur optimum local trouvé 90 fois
+temps en ms : 147
+Tabou avec aspiration :
+Meilleur optimum local : 5.1
+Pire optimum local : 7.8
+Moyenne : 5.303
+Médiane : 5.1
+Meilleur optimum local trouvé 68 fois
+temps en ms : 158
+
+
+CG_25_4.txt
+
+Gradient :
+Meilleur optimum local : 1.65
+Pire optimum local : 23.05
+Moyenne : 9.288
+Médiane : 9
+Meilleur optimum local trouvé 43 fois
+temps en ms : 151
+Gradient avec heuristique :
+Meilleur optimum local : 1.65
+Pire optimum local : 25.95
+Moyenne : 11.774
+Médiane : 12.975
+Meilleur optimum local trouvé 28 fois
+temps en ms : 133
+Recuit Simule :
+Meilleur optimum local : 1.65
+Pire optimum local : 16.9
+Moyenne : 2.0505
+Médiane : 1.65
+Meilleur optimum local trouvé 96 fois
+temps en ms : 49575
+Tabou sans aspiration :
+Meilleur optimum local : 1.65
+Pire optimum local : 3.45
+Moyenne : 1.668
+Médiane : 1.65
+Meilleur optimum local trouvé 99 fois
+temps en ms : 6897
+Tabou avec aspiration :
+Meilleur optimum local : 1.65
+Pire optimum local : 9.35
+Moyenne : 1.727
+Médiane : 1.65
+Meilleur optimum local trouvé 99 fois
+temps en ms : 7429
+
+
+cG_25_4.txt
+
+Gradient :
+Meilleur optimum local : 0.5
+Pire optimum local : 28.2
+Moyenne : 10.744
+Médiane : 11.275
+Meilleur optimum local trouvé 33 fois
+temps en ms : 138
+Gradient avec heuristique :
+Meilleur optimum local : 0.5
+Pire optimum local : 26.6
+Moyenne : 9.7645
+Médiane : 8.15
+Meilleur optimum local trouvé 42 fois
+temps en ms : 142
+Recuit Simule :
+Meilleur optimum local : 0.5
+Pire optimum local : 6.3
+Moyenne : 0.612
+Médiane : 0.5
+Meilleur optimum local trouvé 97 fois
+temps en ms : 47172
+Tabou sans aspiration :
+Meilleur optimum local : 0.5
+Pire optimum local : 13.1
+Moyenne : 0.8675
+Médiane : 0.5
+Meilleur optimum local trouvé 96 fois
+temps en ms : 6980
+Tabou avec aspiration :
+Meilleur optimum local : 0.5
+Pire optimum local : 23
+Moyenne : 1.5135
+Médiane : 0.5
+Meilleur optimum local trouvé 93 fois
+temps en ms : 7531
+
+
+random_10.txt
+
+Gradient :
+Meilleur optimum local : 6.91
+Pire optimum local : 9.71
+Moyenne : 7.7187
+Médiane : 7.11
+Meilleur optimum local trouvé 18 fois
+temps en ms : 15
+Gradient avec heuristique :
+Meilleur optimum local : 6.91
+Pire optimum local : 11.21
+Moyenne : 8.8207
+Médiane : 9.04
+Meilleur optimum local trouvé 6 fois
+temps en ms : 7
+Recuit Simule :
+Meilleur optimum local : 6.91
+Pire optimum local : 7.11
+Moyenne : 6.919
+Médiane : 6.91
+Meilleur optimum local trouvé 94 fois
+temps en ms : 4738
+Tabou sans aspiration :
+Meilleur optimum local : 6.91
+Pire optimum local : 8.18
+Moyenne : 6.9967
+Médiane : 6.91
+Meilleur optimum local trouvé 52 fois
+temps en ms : 154
+Tabou avec aspiration :
+Meilleur optimum local : 6.91
+Pire optimum local : 8.88
+Moyenne : 7.0879
+Médiane : 7.01
+Meilleur optimum local trouvé 34 fois
+temps en ms : 162
+
+
+huitSommets_weight.txt
+
+Gradient :
+Meilleur optimum local : 2.9
+Pire optimum local : 4.25
+Moyenne : 3.174
+Médiane : 2.9
+Meilleur optimum local trouvé 54 fois
+temps en ms : 14
+Gradient avec heuristique :
+Meilleur optimum local : 2.9
+Pire optimum local : 6.15
+Moyenne : 4.169
+Médiane : 3.95
+Meilleur optimum local trouvé 9 fois
+temps en ms : 6
+Recuit Simule :
+Meilleur optimum local : 2.9
+Pire optimum local : 3.3
+Moyenne : 2.907
+Médiane : 2.9
+Meilleur optimum local trouvé 96 fois
+temps en ms : 2423
+Tabou sans aspiration :
+Meilleur optimum local : 2.9
+Pire optimum local : 3.85
+Moyenne : 3.179
+Médiane : 3
+Meilleur optimum local trouvé 36 fois
+temps en ms : 87
+Tabou avec aspiration :
+Meilleur optimum local : 2.9
+Pire optimum local : 3.95
+Moyenne : 3.1835
+Médiane : 3
+Meilleur optimum local trouvé 26 fois
+temps en ms : 92
+
+
+test_cluster.txt
+
+Gradient :
+Meilleur optimum local : 27.925
+Pire optimum local : 44.525
+Moyenne : 34.479
+Médiane : 34.4875
+Meilleur optimum local trouvé 2 fois
+temps en ms : 434
+Gradient avec heuristique :
+Meilleur optimum local : 32
+Pire optimum local : 54.125
+Moyenne : 39.464
+Médiane : 39.025
+Meilleur optimum local trouvé 1 fois
+temps en ms : 154
+Recuit Simule :
+Meilleur optimum local : 27.925
+Pire optimum local : 32.175
+Moyenne : 28.9733
+Médiane : 28.7
+Meilleur optimum local trouvé 44 fois
+temps en ms : 162884
+Tabou sans aspiration :
+Meilleur optimum local : 29.025
+Pire optimum local : 36.8
+Moyenne : 32.3995
+Médiane : 31.65
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9487
+Tabou avec aspiration :
+Meilleur optimum local : 27.925
+Pire optimum local : 38.575
+Moyenne : 32.632
+Médiane : 32.3625
+Meilleur optimum local trouvé 1 fois
+temps en ms : 10288
+
+
+huitSommets.txt
+
+Gradient :
+Meilleur optimum local : 6
+Pire optimum local : 8
+Moyenne : 6.69
+Médiane : 6
+Meilleur optimum local trouvé 53 fois
+temps en ms : 12
+Gradient avec heuristique :
+Meilleur optimum local : 6
+Pire optimum local : 10
+Moyenne : 8.32
+Médiane : 8
+Meilleur optimum local trouvé 11 fois
+temps en ms : 5
+Recuit Simule :
+Meilleur optimum local : 6
+Pire optimum local : 7
+Moyenne : 6.02
+Médiane : 6
+Meilleur optimum local trouvé 98 fois
+temps en ms : 1563
+Tabou sans aspiration :
+Meilleur optimum local : 6
+Pire optimum local : 7
+Moyenne : 6.01
+Médiane : 6
+Meilleur optimum local trouvé 99 fois
+temps en ms : 86
+Tabou avec aspiration :
+Meilleur optimum local : 6
+Pire optimum local : 7
+Moyenne : 6.12
+Médiane : 6
+Meilleur optimum local trouvé 88 fois
+temps en ms : 99
+
+
+test_gno.txt
+
+Gradient :
+Meilleur optimum local : 72
+Pire optimum local : 102
+Moyenne : 82.44
+Médiane : 82
+Meilleur optimum local trouvé 1 fois
+temps en ms : 392
+Gradient avec heuristique :
+Meilleur optimum local : 76
+Pire optimum local : 107
+Moyenne : 89.61
+Médiane : 90
+Meilleur optimum local trouvé 2 fois
+temps en ms : 127
+Recuit Simule :
+Meilleur optimum local : 72
+Pire optimum local : 90
+Moyenne : 74.03
+Médiane : 72
+Meilleur optimum local trouvé 70 fois
+temps en ms : 136229
+Tabou sans aspiration :
+Meilleur optimum local : 72
+Pire optimum local : 80
+Moyenne : 74.07
+Médiane : 74
+Meilleur optimum local trouvé 3 fois
+temps en ms : 9640
+Tabou avec aspiration :
+Meilleur optimum local : 72
+Pire optimum local : 81
+Moyenne : 74.94
+Médiane : 75
+Meilleur optimum local trouvé 12 fois
+temps en ms : 10033
+
+
+28_3_clusters_ClusterGraph.txt
+
+Gradient :
+Meilleur optimum local : 28.9
+Pire optimum local : 51.65
+Moyenne : 34.5455
+Médiane : 34.3
+Meilleur optimum local trouvé 1 fois
+temps en ms : 435
+Gradient avec heuristique :
+Meilleur optimum local : 28.9
+Pire optimum local : 59.275
+Moyenne : 40.045
+Médiane : 39.55
+Meilleur optimum local trouvé 1 fois
+temps en ms : 153
+Recuit Simule :
+Meilleur optimum local : 27.925
+Pire optimum local : 36.3
+Moyenne : 29.083
+Médiane : 28.9
+Meilleur optimum local trouvé 30 fois
+temps en ms : 163682
+Tabou sans aspiration :
+Meilleur optimum local : 29.55
+Pire optimum local : 38.325
+Moyenne : 32.4587
+Médiane : 32.1625
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9509
+Tabou avec aspiration :
+Meilleur optimum local : 27.925
+Pire optimum local : 37.875
+Moyenne : 32.4307
+Médiane : 32.225
+Meilleur optimum local trouvé 2 fois
+temps en ms : 10290
+
+
+10_3_graph.txt
+
+Gradient :
+Meilleur optimum local : 28.7
+Pire optimum local : 48.175
+Moyenne : 34.3145
+Médiane : 34.075
+Meilleur optimum local trouvé 2 fois
+temps en ms : 425
+Gradient avec heuristique :
+Meilleur optimum local : 29.6
+Pire optimum local : 55.825
+Moyenne : 39.9942
+Médiane : 38.8875
+Meilleur optimum local trouvé 1 fois
+temps en ms : 158
+Recuit Simule :
+Meilleur optimum local : 27.925
+Pire optimum local : 40.35
+Moyenne : 29.0558
+Médiane : 28.9625
+Meilleur optimum local trouvé 39 fois
+temps en ms : 166630
+Tabou sans aspiration :
+Meilleur optimum local : 29.35
+Pire optimum local : 36.55
+Moyenne : 32.4777
+Médiane : 32.7
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9453
+Tabou avec aspiration :
+Meilleur optimum local : 27.925
+Pire optimum local : 37.425
+Moyenne : 32.228
+Médiane : 31.7625
+Meilleur optimum local trouvé 2 fois
+temps en ms : 10261
+
+
+28_3_clusters.txt
+
+Gradient :
+Meilleur optimum local : 27.925
+Pire optimum local : 51.85
+Moyenne : 35.0355
+Médiane : 34.45
+Meilleur optimum local trouvé 1 fois
+temps en ms : 423
+Gradient avec heuristique :
+Meilleur optimum local : 32.9
+Pire optimum local : 60.7
+Moyenne : 40.2757
+Médiane : 39.1875
+Meilleur optimum local trouvé 1 fois
+temps en ms : 159
+Recuit Simule :
+Meilleur optimum local : 27.925
+Pire optimum local : 33.275
+Moyenne : 29.2708
+Médiane : 29.2
+Meilleur optimum local trouvé 35 fois
+temps en ms : 153082
+Tabou sans aspiration :
+Meilleur optimum local : 28.7
+Pire optimum local : 39.3
+Moyenne : 32.882
+Médiane : 32.5375
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9584
+Tabou avec aspiration :
+Meilleur optimum local : 29.55
+Pire optimum local : 37.275
+Moyenne : 32.5995
+Médiane : 32.8875
+Meilleur optimum local trouvé 1 fois
+temps en ms : 10254
+
+
+28_3_clusters_SparseCluster.txt
+
+Gradient :
+Meilleur optimum local : 20.5
+Pire optimum local : 42.6
+Moyenne : 25.1755
+Médiane : 24.225
+Meilleur optimum local trouvé 2 fois
+temps en ms : 384
+Gradient avec heuristique :
+Meilleur optimum local : 20.35
+Pire optimum local : 50.625
+Moyenne : 29.749
+Médiane : 28.925
+Meilleur optimum local trouvé 1 fois
+temps en ms : 145
+Recuit Simule :
+Meilleur optimum local : 18.4
+Pire optimum local : 22.9
+Moyenne : 19.2845
+Médiane : 19.075
+Meilleur optimum local trouvé 11 fois
+temps en ms : 117486
+Tabou sans aspiration :
+Meilleur optimum local : 19.125
+Pire optimum local : 26.95
+Moyenne : 22.4952
+Médiane : 22.3
+Meilleur optimum local trouvé 1 fois
+temps en ms : 8959
+Tabou avec aspiration :
+Meilleur optimum local : 18.575
+Pire optimum local : 30.15
+Moyenne : 22.5197
+Médiane : 22.25
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9390
+
+
+28_3_clusters_SomeCluster.txt
+
+Gradient :
+Meilleur optimum local : 18.825
+Pire optimum local : 44.4
+Moyenne : 25.7323
+Médiane : 25
+Meilleur optimum local trouvé 1 fois
+temps en ms : 386
+Gradient avec heuristique :
+Meilleur optimum local : 20.625
+Pire optimum local : 53.9
+Moyenne : 30.9
+Médiane : 29.7375
+Meilleur optimum local trouvé 1 fois
+temps en ms : 138
+Recuit Simule :
+Meilleur optimum local : 18.325
+Pire optimum local : 21.925
+Moyenne : 19.7468
+Médiane : 19.7
+Meilleur optimum local trouvé 10 fois
+temps en ms : 124761
+Tabou sans aspiration :
+Meilleur optimum local : 19.425
+Pire optimum local : 27.075
+Moyenne : 22.8792
+Médiane : 22.825
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9171
+Tabou avec aspiration :
+Meilleur optimum local : 18.325
+Pire optimum local : 26.825
+Moyenne : 22.2417
+Médiane : 21.8
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9615
+
+
+28_3_clusters_EquiCluster.txt
+
+Gradient :
+Meilleur optimum local : 24.85
+Pire optimum local : 34.2
+Moyenne : 29.0727
+Médiane : 29.125
+Meilleur optimum local trouvé 1 fois
+temps en ms : 410
+Gradient avec heuristique :
+Meilleur optimum local : 25.35
+Pire optimum local : 56.05
+Moyenne : 34.4545
+Médiane : 33.775
+Meilleur optimum local trouvé 1 fois
+temps en ms : 151
+Recuit Simule :
+Meilleur optimum local : 23.2
+Pire optimum local : 25.95
+Moyenne : 24.108
+Médiane : 24.175
+Meilleur optimum local trouvé 16 fois
+temps en ms : 142960
+Tabou sans aspiration :
+Meilleur optimum local : 24.15
+Pire optimum local : 32.35
+Moyenne : 27.5232
+Médiane : 27.3375
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9469
+Tabou avec aspiration :
+Meilleur optimum local : 23.2
+Pire optimum local : 32.925
+Moyenne : 27.0852
+Médiane : 26.8125
+Meilleur optimum local trouvé 1 fois
+temps en ms : 9714
