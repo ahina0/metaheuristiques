@@ -1,0 +1,121 @@
+Nom,algo,Nb_trouvé
+quatreSommets.txt,Gradient,100
+quatreSommets.txt,Gradient avec heuristique,100
+quatreSommets.txt,KL,100
+quatreSommets.txt,Recuit Simule,100
+quatreSommets.txt,Tabou sans aspiration,100
+quatreSommets.txt,Tabou avec aspiration,100
+dixSommets.txt,Gradient,35
+dixSommets.txt,Gradient avec heuristique,21
+dixSommets.txt,KL,55
+dixSommets.txt,Recuit Simule,97
+dixSommets.txt,Tabou sans aspiration,96
+dixSommets.txt,Tabou avec aspiration,31
+dixSeptSommets.txt,Gradient,10
+dixSeptSommets.txt,Gradient avec heuristique,4
+dixSeptSommets.txt,KL,51
+dixSeptSommets.txt,Recuit Simule,67
+dixSeptSommets.txt,Tabou sans aspiration,89
+dixSeptSommets.txt,Tabou avec aspiration,79
+vingtEtunSommets.txt,Gradient,1
+vingtEtunSommets.txt,Gradient avec heuristique,1
+vingtEtunSommets.txt,KL,43
+vingtEtunSommets.txt,Recuit Simule,23
+vingtEtunSommets.txt,Tabou sans aspiration,73
+vingtEtunSommets.txt,Tabou avec aspiration,56
+vingtTroisSommets.txt,Gradient,40
+vingtTroisSommets.txt,Gradient avec heuristique,20
+vingtTroisSommets.txt,KL,51
+vingtTroisSommets.txt,Recuit Simule,95
+vingtTroisSommets.txt,Tabou sans aspiration,59
+vingtTroisSommets.txt,Tabou avec aspiration,56
+vingtCinqSommets.txt,Gradient,2
+vingtCinqSommets.txt,Gradient avec heuristique,1
+vingtCinqSommets.txt,KL,35
+vingtCinqSommets.txt,Recuit Simule,21
+vingtCinqSommets.txt,Tabou sans aspiration,26
+vingtCinqSommets.txt,Tabou avec aspiration,11
+cinquanteSommets.txt,Gradient,1
+cinquanteSommets.txt,Gradient avec heuristique,1
+cinquanteSommets.txt,KL,8
+cinquanteSommets.txt,Recuit Simule,21
+cinquanteSommets.txt,Tabou sans aspiration,3
+cinquanteSommets.txt,Tabou avec aspiration,1
+cinqCentSommets.txt,Gradient,1
+cinqCentSommets.txt,Gradient avec heuristique,1
+cinqCentSommets.txt,KL,1
+cinqCentSommets.txt,Recuit Simule,1
+cinqCentSommets.txt,Tabou sans aspiration,1
+cinqCentSommets.txt,Tabou avec aspiration,1
+RG_50_5.txt,Gradient,8
+RG_50_5.txt,Gradient avec heuristique,5
+RG_50_5.txt,KL,10
+RG_50_5.txt,Recuit Simule,72
+RG_50_5.txt,Tabou sans aspiration,19
+RG_50_5.txt,Tabou avec aspiration,13
+connex_10.txt,Gradient,72
+connex_10.txt,Gradient avec heuristique,81
+connex_10.txt,KL,45
+connex_10.txt,Recuit Simule,100
+connex_10.txt,Tabou sans aspiration,100
+connex_10.txt,Tabou avec aspiration,100
+deuxTriangles.txt,Gradient,89
+deuxTriangles.txt,Gradient avec heuristique,80
+deuxTriangles.txt,KL,38
+deuxTriangles.txt,Recuit Simule,100
+deuxTriangles.txt,Tabou sans aspiration,100
+deuxTriangles.txt,Tabou avec aspiration,100
+huitSommets_11.txt,Gradient,3
+huitSommets_11.txt,Gradient avec heuristique,2
+huitSommets_11.txt,KL,8
+huitSommets_11.txt,Recuit Simule,12
+huitSommets_11.txt,Tabou sans aspiration,7
+huitSommets_11.txt,Tabou avec aspiration,8
+RG_13_3.txt,Gradient,94
+RG_13_3.txt,Gradient avec heuristique,97
+RG_13_3.txt,KL,51
+RG_13_3.txt,Recuit Simule,100
+RG_13_3.txt,Tabou sans aspiration,100
+RG_13_3.txt,Tabou avec aspiration,100
+CG_25_4.txt,Gradient,29
+CG_25_4.txt,Gradient avec heuristique,27
+CG_25_4.txt,KL,22
+CG_25_4.txt,Recuit Simule,87
+CG_25_4.txt,Tabou sans aspiration,37
+CG_25_4.txt,Tabou avec aspiration,30
+random_10.txt,Gradient,100
+random_10.txt,Gradient avec heuristique,100
+random_10.txt,KL,59
+random_10.txt,Recuit Simule,100
+random_10.txt,Tabou sans aspiration,100
+random_10.txt,Tabou avec aspiration,100
+test_cluster.txt,Gradient,78
+test_cluster.txt,Gradient avec heuristique,84
+test_cluster.txt,KL,48
+test_cluster.txt,Recuit Simule,100
+test_cluster.txt,Tabou sans aspiration,100
+test_cluster.txt,Tabou avec aspiration,100
+test_gno.txt,Gradient,11
+test_gno.txt,Gradient avec heuristique,10
+test_gno.txt,KL,5
+test_gno.txt,Recuit Simule,85
+test_gno.txt,Tabou sans aspiration,14
+test_gno.txt,Tabou avec aspiration,20
+10_3_graph.txt,Gradient,17
+10_3_graph.txt,Gradient avec heuristique,8
+10_3_graph.txt,KL,7
+10_3_graph.txt,Recuit Simule,90
+10_3_graph.txt,Tabou sans aspiration,19
+10_3_graph.txt,Tabou avec aspiration,15
+28_3_clusters_SparseCluster.txt,Gradient,9
+28_3_clusters_SparseCluster.txt,Gradient avec heuristique,3
+28_3_clusters_SparseCluster.txt,KL,6
+28_3_clusters_SparseCluster.txt,Recuit Simule,84
+28_3_clusters_SparseCluster.txt,Tabou sans aspiration,17
+28_3_clusters_SparseCluster.txt,Tabou avec aspiration,12
+28_3_clusters_EquiCluster.txt,Gradient,2
+28_3_clusters_EquiCluster.txt,Gradient avec heuristique,1
+28_3_clusters_EquiCluster.txt,KL,12
+28_3_clusters_EquiCluster.txt,Recuit Simule,83
+28_3_clusters_EquiCluster.txt,Tabou sans aspiration,7
+28_3_clusters_EquiCluster.txt,Tabou avec aspiration,2
