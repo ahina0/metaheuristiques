@@ -12,5 +12,6 @@ class Glouton : public Solution {
 
         double gradient(int iter);
 
+        double heuristique(int iter_max, int K);
         
 };

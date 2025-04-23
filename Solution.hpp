@@ -1,7 +1,9 @@
 #pragma once
 
+#include <chrono>
+using namespace std::chrono;
+
 #include "Graphe.hpp"
-#include <cmath>
 
 
 class Solution : public Graph{
@@ -25,8 +27,6 @@ class Solution : public Graph{
 
         bool is_realisable();
 
-        // Méthodes virtuelles
-        //calcul vois
-        //algo
+        void Tirage_Vois();
 
 };

@@ -9,9 +9,15 @@
 #include <sstream>
 #include <cstdlib>
 #include <ctime>
+#include <numeric>
+#include <random>
+#include <algorithm>
+#include <cmath>
 
 using namespace std;
 
+static random_device rd;
+static mt19937 gen(rd());
 
 class Graph{
 
@@ -30,5 +36,9 @@ class Graph{
     // Méthodes
         Graph(string filename);     // Construit un graphe à partir d'un fichier
         void print_graph();     // Affiche le graphe
+        double w_xy(int x, int y); // Renvoie le poids de l'arête entre les sommets si elle existe, 0 sinon
 };
 
+
+
+bool find(const vector<int> &v, int a);

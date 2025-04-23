@@ -27,6 +27,5 @@ double Enumeration::explicite(){
             }
         }
     }
-
     return min;
 }

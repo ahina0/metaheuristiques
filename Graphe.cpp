@@ -100,3 +100,33 @@ void Graph::print_graph(){      // Affiche le graphe
     }
 
 }
+
+// Renvoie le poids de l'arête entre les sommets si elle existe, 0 sinon
+double Graph::w_xy(int x, int y) {
+    double w = 0;
+    if (Aretes.contains(x)) {
+        for (auto & [arrivee, poids] : Aretes[x]) {
+            if (arrivee == y) {
+                w = poids;
+            }
+        }
+    }
+    if (Aretes.contains(y)) {
+        for (auto & [arrivee, poids] : Aretes[y]) {
+            if (arrivee == x) {
+                w = poids;
+            }
+        }
+    }
+    return w;
+}
+
+
+bool find(const vector<int> &v, int a){
+    for (auto &x : v){
+        if (x==a){
+            return true;
+        }
+    }
+    return false;
+}
